@@ -47,7 +47,7 @@
             
             function readOutLoud(message){
 
-                const greetings = ['Estou muito bem Obrigado', 'Va tomar no cu me deixe sozinha', 'Tudo otimo neste lindo dia']
+                const greetings = ['Estou muito bem Obrigada', 'Va tomar no cu me deixe sozinha', 'Tudo otimo neste lindo dia']
                 const weather = ['O tempo esta otimo, saia de casa e va caminhar', 'O tempo esta otimo para sentar a bunda e estudar', 'O tempo esta tipo inferno de 40 graus']
                 const programar = ['Entao senta a bunda na cadeira, liga o computador e comece Ja', 'Voce ja tem alguma experiencia?', 'Qual linguagem voce gostaria de Aprender?']
                 const comecar = ['Experimente estudar algumas disciplinas comuns do curso de graduação, como Raciocínio Lógico e Linguagem de Programação. Há uma grande diversidade de linguagens por aí, sendo que o nível de dificuldade varia de uma para outra.'];
